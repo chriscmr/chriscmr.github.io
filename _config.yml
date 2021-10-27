@@ -1,6 +1,6 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: Chris Toumping Fotso
+url: "http://chriscmr.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
@@ -10,12 +10,13 @@ description: >
 email: your_email@example.com
 author: Chris Toumping Fotso
 avatar: "https://github.com/chriscmr/chriscmr.github.io/blob/gh-pages/photos/Chris%20Toumping%20FOTSO-MSc%20in%20Mathematics-Cameroon.jpg?raw=true"
-profile: One sentence introducing yourself.
+profile: I'm Chris welcome to my site.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
   Email: "mailto:toumping.fotso@aims.ac.rw"
   GitHub: "https://github.com/chriscmr"
+  Linkedin: "linkedin.com/in/toumping-fotso-5a1b2921b"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
@@ -28,8 +29,8 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    #Category: /category/
+    #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
